@@ -1,0 +1,7 @@
+organization=789naga
+projectKey=space-game-DEMO
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.1929
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-DEMO
+ceTaskId=AW38igTZ_pjpD-SpknYV
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW38igTZ_pjpD-SpknYV
